@@ -1,1 +1,3 @@
-THIS IS A LEARNING OF GIT
+THIS IS A LEARNING OF GIt
+
+add of new line
